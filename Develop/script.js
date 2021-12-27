@@ -5,60 +5,33 @@ document.getElementById("currentDay").innerHTML = date;
 var main = document.querySelector("main");
 
 var schedData = [
-  {
-    time: "9:00 A.M.",
-    timeClock: 9,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "10:00 A.M.",
-    timeClock: 10,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "11:00 A.M.",
-    timeClock: 11,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "12:00 P.M.",
-    timeClock: 12,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "1:00 P.M.",
-    timeClock: 13,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "2:00 P.M.",
-    timeClock: 14,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "3:00 P.M.",
-    timeClock: 15,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "4:00 P.M.",
-    timeClock: 16,
-    content: " ",
-    button: "saveBtn",
-  },
-  {
-    time: "5:00 P.M.",
-    timeClock: 17,
-    content: " ",
-    button: "saveBtn",
-  },
+    {
+        time: "9:00 A.M.", timeClock: 9, content: " ", button: "saveBtn",
+      },
+      {
+        time: "10:00 A.M.", timeClock: 10, content: " ", button: "saveBtn",
+      },
+      {
+        time: "11:00 A.M.", timeClock: 11, content: " ", button: "saveBtn",
+      },
+      {
+        time: "12:00 P.M.", timeClock: 12, content: " ", button: "saveBtn",
+      },
+      {
+        time: "1:00 P.M.", timeClock: 13, content: " ", button: "saveBtn",
+      },
+      {
+        time: "2:00 P.M.", timeClock: 14, content: " ", button: "saveBtn",
+      },
+      {
+        time: "3:00 P.M.", timeClock: 15, content: " ", button: "saveBtn",
+      },
+      {
+        time: "4:00 P.M.", timeClock: 16, content: " ", button: "saveBtn",
+      },
+      {
+          time: "5:00 P.M.", timeClock: 17, content: " ", button: "saveBtn",
+      }, 
 ];
 
 var currentTime = function () {
