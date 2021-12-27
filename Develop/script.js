@@ -1,6 +1,6 @@
 var today = new Date();
 var date = moment().format("dddd, MMMM Do, YYYY");
-document.getElementById("currentDay").innerHTML = date;
+document.getElementById("current").innerHTML = date;
 
 var main = document.querySelector("main");
 
