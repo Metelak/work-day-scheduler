@@ -22,6 +22,13 @@ Mock-Up
 ## Mock Up:
 ![Image 2](https://user-images.githubusercontent.com/94068596/147430074-1ef0dee9-fe61-48be-8035-1fcdd3d3417b.png)
 
+## Link:
+Repo:
+https://github.com/Metelak/work-day-scheduler
+
+Deployed:
+https://metelak.github.io/work-day-scheduler/
+
 ## Credits:
 I would love to give a shout out to Claire and Kyler's collaboration. 
 
